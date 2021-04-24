@@ -25,7 +25,7 @@
 			<div class="navbar-content scroll-div " >
 				<ul class="nav pcoded-inner-navbar ">
 					<li class="nav-item">
-                        <a href="./index.html" class="nav-link ">
+                        <a href="./index.php" class="nav-link ">
                             <span class="pcoded-micon"><i class="feather icon-award"></i></span>
                             <span class="pcoded-mtext">My Project</span>
                         </a>
